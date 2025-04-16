@@ -1,5 +1,9 @@
 # 🔥 ESP32-gesteuerter Pulverbeschichtungs-Ofen
 
+![Build](https://img.shields.io/badge/status-active-brightgreen)
+[![Made with Arduino](https://img.shields.io/badge/built%20with-arduino-00979D.svg?style=flat-square&logo=arduino)](https://www.arduino.cc)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Ein smartes Webinterface zur Temperaturregelung für einen umgebauten Elektro-Ofen – ideal zum Pulverbeschichten, Tempern von Carbon oder ähnliche Hochtemperaturprozesse.
 
 ---
