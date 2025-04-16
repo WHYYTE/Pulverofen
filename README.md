@@ -2,7 +2,7 @@
 
 ![Build](https://img.shields.io/badge/status-active-brightgreen)
 [![Made with Arduino](https://img.shields.io/badge/built%20with-arduino-00979D.svg?style=flat-square&logo=arduino)](https://www.arduino.cc)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 Ein smartes Webinterface zur Temperaturregelung für einen umgebauten Elektro-Ofen – ideal zum Pulverbeschichten, Tempern von Carbon oder ähnliche Hochtemperaturprozesse.
 
@@ -103,7 +103,12 @@ project_root/
 
 ## 🧩 Lizenz
 
-MIT License – feel free to use & modify!
+Dieses Projekt steht unter der [Creative Commons Namensnennung - Nicht-kommerziell - Keine Bearbeitungen 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de).
+
+Das bedeutet:
+- ✅ **Nutzung ist erlaubt**, aber **nur für nicht-kommerzielle Zwecke**
+- ❌ **Keine Veränderungen oder Ableitungen** ohne ausdrückliche Genehmigung
+- 📝 **Namensnennung erforderlich** (Autor: [WHYYTE](https://github.com/WHYYTE))
 
 ---
 
